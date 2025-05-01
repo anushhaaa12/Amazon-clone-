@@ -30,8 +30,7 @@ This project was an ambitious attempt to clone the **Amazon** e-commerce platfor
 ![Screenshot (99)](https://github.com/user-attachments/assets/10cdffc6-c311-4f35-83fb-a1c339f7b250)
 ![Screenshot (98)](https://github.com/user-attachments/assets/9878ba19-062b-475a-a5ef-777c99abb710)
 
-Open in browser:
-http://localhost:3000
+
 
 
 
